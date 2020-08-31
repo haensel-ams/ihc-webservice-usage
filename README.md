@@ -16,4 +16,4 @@ Project is created with:
 	
 ## Setup
 To use the IHC Webservice please follow these steps:
-1. Create an API-key under: https://advanced-attribution.com/
+1. Create an API-key under: https://service.advanced-attribution.com/
