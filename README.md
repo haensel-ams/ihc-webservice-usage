@@ -24,6 +24,6 @@ IHC contents on this projects cover:<br/>
 
 ## About Datasets
 **1.** **site_traffic_1** and **site_traffic_2** are site traffic datasets that used in training set generation in the notebook **IHC 1** <br/>
-**2.** **cj_nl_new_train** is the training set generated in the notebook **IHC 1** <br\>
-**3.** **cj_nl_new_test** is the test set generated in the notebook **IHC 1** <br\>
-**4.** **cj_evaluated** contains computed customer journeys of different conversion types. This dataset is for the notebook **IHC 4**
+**2.** **cj_nl_new_train** is the training set generated in the notebook **IHC 1** <br/>
+**3.** **cj_nl_new_test** is the test set generated in the notebook **IHC 1** <br/>
+**4.** **cj_evaluated** contains computed customer journeys of different conversion types. This dataset is used in the notebook **IHC 4**
