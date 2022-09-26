@@ -1,0 +1,8 @@
+aiohttp
+asyncio
+pandas 
+numpy
+datetime
+requests
+matplotlib
+seaborn
